@@ -1,10 +1,10 @@
 import "./App.css";
-import Pokegame from "./Components/Pokegame";
+import RollDice from "./Components/Dice/RollDice";
 
 function App() {
   return (
     <div className="App">
-      <Pokegame />
+      <RollDice />
     </div>
   );
 }
