@@ -1,1 +1,1 @@
-Simple practice repo
+Simple practice repo for JS
