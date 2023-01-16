@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/hangman-game/node_modules
 /.pnp
 .pnp.js
 
